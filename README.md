@@ -74,3 +74,51 @@ There are a few trigonometric ratios that are easy to remember. Such as:
 ![image](https://user-images.githubusercontent.com/66630745/84346173-004e5380-abcd-11ea-9b5a-2a0c83dac1c9.png)
 
 tan 45 is equal to one because the triangle would be isosceles. If one angle is 45 and another is a right angle, the last angle would be 45 making the triangle isosceles. Since the triangle is isosceles, the sides opposite to and adjacent to the angle would be of the same length. 
+
+## Further Trignometry
+
+### Angle of Depression and Elevation
+
+![image](https://user-images.githubusercontent.com/66630745/84347332-dcd8d800-abcf-11ea-9c63-cf19a855072c.png)
+
+![image](https://user-images.githubusercontent.com/66630745/84347337-e2362280-abcf-11ea-91e8-ec99b1806344.png)
+
+When looking upwards towards an object, the angle of elevation is defined as the angle between the line of sight and the horizontal. When looking downwards towards an object, the angle of depression is defined as the angle between the line of sight and the horizontal. The angle of depression is the same as the angle of elevation.
+
+![image](https://user-images.githubusercontent.com/66630745/84347493-5cff3d80-abd0-11ea-80e9-89c9b8928380.png)
+
+Let's suppose we have to find the height of h:
+
+h/180= tan 23°
+
+h = (tan 23°) × 180
+
+= 76.405467
+
+Let's take another example where we have to find the angle:
+
+![image](https://user-images.githubusercontent.com/66630745/84347612-a780ba00-abd0-11ea-8909-ac155fa17232.png)
+
+tan θ = 40/650
+
+θ = 2nd F tan 40/650
+
+= 3.5214534
+
+### Compass Bearings
+
+The direction of a point Y from an original point X is known as the bearing of Y from X. This is mainly expressed in one of two ways.
+
+![image](https://user-images.githubusercontent.com/66630745/84347987-8ff60100-abd1-11ea-8e5d-c05798fa19e6.png)
+
+The bearing of Y from X can be given as 150° (the angle between the interval XY and the north line measured in a clockwise direction), or, south 30° east (S30°E). Sometimes, only letters are used. So SE (or south-east) is halfway between south (180°) and east (90°); that is, 135° or S45°F.
+
+Other examples include:
+
+![image](https://user-images.githubusercontent.com/66630745/84348009-9be1c300-abd1-11ea-83a7-1be348c4f696.png)
+
+### Questions With 2 Right Angled Triangles
+
+![image](https://user-images.githubusercontent.com/66630745/84348297-3b06ba80-abd2-11ea-9e1b-b7e69d2bdc39.png)
+
+If you were to find angle QPR from the image above you would have to find angle NPR and angle NPQ and then subtract angle NPQ from NPR. The same subtraction method goes for finding QR. You would have to subtract NR from NQ in order to get the length of QR.
