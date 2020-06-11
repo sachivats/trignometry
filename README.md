@@ -122,3 +122,7 @@ Other examples include:
 ![image](https://user-images.githubusercontent.com/66630745/84348297-3b06ba80-abd2-11ea-9e1b-b7e69d2bdc39.png)
 
 If you were to find angle QPR from the image above you would have to find angle NPR and angle NPQ and then subtract angle NPQ from NPR. The same subtraction method goes for finding QR. You would have to subtract NR from NQ in order to get the length of QR.
+
+## Citations
+
+- [http://www.ishweb.nl/Resources/InternationalMaths/IM_4_SB.pdf](http://www.ishweb.nl/Resources/InternationalMaths/IM_4_SB.pdf)
